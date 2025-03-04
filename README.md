@@ -2,6 +2,9 @@
 
 ## Implementation
 Which features you included.
+-idle pose
+-walking animation facing both directions 
+-jumping animation facing both directions 
 
 ## References
 
@@ -12,4 +15,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Lindsey Surd
